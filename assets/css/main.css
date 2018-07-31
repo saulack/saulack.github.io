@@ -4117,3 +4117,7 @@ input, select, textarea {
 	.rails {
 		margin-left: 50px;
 	}
+
+	.favi {
+		border-radius: 50%
+	}
