@@ -4128,3 +4128,7 @@ input, select, textarea {
 		height: 40px;
 		margin: 20px;
 	}
+
+	.home-link {
+			color: transparent
+	}
