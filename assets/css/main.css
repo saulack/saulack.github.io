@@ -4075,12 +4075,13 @@ input, select, textarea {
 	.skill-list {
 		display: flex;
 		flex-wrap: wrap;
+		object-fit: contain;
 		/* flex-direction: column; */
 	}
 
 	.skill {
 		object-fit: contain;
-		margin: 30px;
+		margin: 10px;
 		max-height: 80px;
 		max-width: 80px;
 	}
@@ -4111,13 +4112,20 @@ input, select, textarea {
 	}
 
 	.js {
-		margin-left: 50px;
+		margin-left: 30px;
 	}
 
 	.rails {
-		margin-left: 50px;
+		margin-left: 30px;
 	}
 
 	.favi {
 		border-radius: 50%
+	}
+
+	.home-img {
+		/* border-radius: 50%; */
+		max-width: 40px;
+		max-height: 40px;
+		margin: 20px;
 	}
