@@ -4124,7 +4124,7 @@ input, select, textarea {
 	}
 
 	.home-img {
-		max-width: 40px;
-		max-height: 40px;
+		width: 40px;
+		height: 40px;
 		margin: 20px;
 	}
