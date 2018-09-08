@@ -4082,8 +4082,8 @@ input, select, textarea {
 	.skill {
 		object-fit: contain;
 		margin: 10px;
-		max-height: 80px;
-		max-width: 80px;
+		max-height: 70px;
+		max-width: 70px;
 	}
 
 	.ruby {
@@ -4107,7 +4107,6 @@ input, select, textarea {
 		margin: 10px;
 	}
 	.skill-button {
-		/* margin-top: 100px; */
 
 	}
 
